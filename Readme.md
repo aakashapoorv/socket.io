@@ -7,7 +7,7 @@
 
 [![Build Status](https://secure.travis-ci.org/LearnBoost/socket.io.png)](http://travis-ci.org/LearnBoost/socket.io)
 
-## How to use
+## How to use:
 
 ```js
 var server = require('http').Server();
